@@ -1,2 +1,2 @@
 # serial_maps
-Command handler for serail comunication with maps
+Command handler for serial comunication with maps
